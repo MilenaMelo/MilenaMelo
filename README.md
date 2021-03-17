@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I am currently an intern at fintech Pago
-- 🌱 I’m currently learning UX Design, Software Develop and Automated Testing;
+- 🌱 I’m currently learning UX Design, Software Develop and Automated Testing
 - 📫 How to reach me: milenasmelo@outlook.com
 - ⚡ Fun fact: I'm an artist and I like guitar! :metal:
 
