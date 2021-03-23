@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently an intern at fintech Pago;
+- 🔭 I am currently an intern at fintech BPago;
 - 🌱 I’m learning UX Design, Software Develop and Automated Testing;
 - 📫 How to reach me: milenasmelo@outlook.com;
 - ⚡ Fun fact: I'm an artist and I like guitar! :metal:
