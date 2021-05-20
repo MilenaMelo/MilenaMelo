@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am currently an intern at fintech BPago;
-- 🌱 I'm a Digital Designer and Developer 
+- 💻 I'm a Digital Designer and Developer 
 - 💎  I'm a apprentice UX/UI Designer and React :atom:
 - 📫 How to reach me: oimilenamelo@outlook.com;
 - ⚡ Fun fact: I'm an artist and I like guitar! :metal:
